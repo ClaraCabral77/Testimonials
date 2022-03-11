@@ -45,6 +45,7 @@ Note for text colors:
     color: black;
 }
 body{
+    font-family:Arial, Helvetica, sans-serif;
     background-color:hsl(210, 46%, 95%) ;
     overflow-x: hidden;
     overflow-y: hidden;
@@ -96,7 +97,7 @@ body{
     border-radius: 5px;
 }
 #kira{
-    font-family: "Barlow Semi Condensed";
+    
     font-size: 13px;
     grid-area: Tarjeta3;
     margin-top: 10px;
@@ -111,7 +112,7 @@ body{
 
 }
 #janette{
-    font-family: "Barlow Semi Condensed";
+  
     font-size: 13px;
     grid-area: Tarjeta4;
     width: 175px;
@@ -124,7 +125,7 @@ body{
     box-shadow: 5px 5px 5px #dfdfdf;
 }
 #patrik{
-    font-family: "Barlow Semi Condensed";
+    
     padding: 20px 20px;
     font-size: 13px;
     grid-area: Tarjeta5;
@@ -195,4 +196,5 @@ p{
     color: rgb(201, 201, 195);
     line-height: 14px;
   
-}}
+}
+}
